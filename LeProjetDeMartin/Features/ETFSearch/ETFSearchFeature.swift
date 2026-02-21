@@ -11,7 +11,7 @@ struct ETFSearchFeature {
         var selectedIndex = "Tous"
         var selectedType: ETFType = .all
         var selectedFSMA: FSMAFilter = .all
-        var selectedSort: SortOption = .name
+        var selectedSort: SortOption = .fundSizeDesc
         var isLoading = false
         var errorMessage: String?
 

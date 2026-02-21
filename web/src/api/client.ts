@@ -1,7 +1,7 @@
 import type { ETFResponse } from "../types/etf";
 import type { FSMAResponse } from "../types/fsma";
 
-const API_BASE = "https://us-central1-leprojetdemartin.cloudfunctions.net";
+const API_BASE = "https://europe-west1-leprojetdemartin.cloudfunctions.net";
 
 export async function fetchETFs(): Promise<ETFResponse> {
   const res = await fetch(`${API_BASE}/getETFs`);

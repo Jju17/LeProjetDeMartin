@@ -5,6 +5,7 @@ import Autocomplete from "../components/Autocomplete";
 import type { AutocompleteOption } from "../components/Autocomplete";
 import FSMACard from "../components/FSMACard";
 import StateMessage, { Spinner } from "../components/StateMessage";
+import useInfiniteScroll from "../hooks/useInfiniteScroll";
 
 export default function FSMAPage() {
   const [all, setAll] = useState<FSMACompartment[]>([]);
@@ -109,6 +110,8 @@ export default function FSMAPage() {
     return results;
   }, [all, search, selectedNationality, selectedManagement, sortKey]);
 
+  const { visible, Sentinel } = useInfiniteScroll(filtered);
+
   if (loading) return <Spinner text="Chargement de la liste FSMA..." />;
   if (error)
     return (
@@ -187,9 +190,10 @@ export default function FSMAPage() {
         <StateMessage title="Aucun résultat" />
       ) : (
         <div className="flex flex-col gap-2.5 px-4 pb-6">
-          {filtered.map((c) => (
+          {visible.map((c) => (
             <FSMACard key={c.compartmentCode + c.shareClassCode} compartment={c} />
           ))}
+          <Sentinel />
         </div>
       )}
     </div>

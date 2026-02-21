@@ -36,7 +36,7 @@ extension FSMAClient: TestDependencyKey {
 }
 
 extension FSMAClient: DependencyKey {
-    static let cloudFunctionURL = "https://us-central1-leprojetdemartin.cloudfunctions.net/getFSMA"
+    static let cloudFunctionURL = "https://europe-west1-leprojetdemartin.cloudfunctions.net/getFSMA"
 
     static let liveValue = Self(
         fetch: {

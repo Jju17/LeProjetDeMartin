@@ -11,6 +11,7 @@ import Autocomplete from "../components/Autocomplete";
 import type { AutocompleteOption } from "../components/Autocomplete";
 import ETFCard from "../components/ETFCard";
 import StateMessage, { Spinner } from "../components/StateMessage";
+import useInfiniteScroll from "../hooks/useInfiniteScroll";
 
 export default function ETFPage() {
   const [allETFs, setAllETFs] = useState<ETF[]>([]);
@@ -21,7 +22,8 @@ export default function ETFPage() {
   const [selectedIndex, setSelectedIndex] = useState("Tous");
   const [selectedType, setSelectedType] = useState<ETFTypeFilter>("Tous");
   const [selectedFSMA, setSelectedFSMA] = useState<FSMAFilter>("Tous");
-  const [sortKey, setSortKey] = useState<ETFSortKey>("name");
+  const [sortKey, setSortKey] = useState<ETFSortKey>("fundSizeDesc");
+  const [hideIncomplete, setHideIncomplete] = useState(true);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -56,6 +58,8 @@ export default function ETFPage() {
       (a || "").localeCompare(b || "", "fr", { sensitivity: "base" });
 
     let results = allETFs.filter((etf) => {
+      if (hideIncomplete && (!etf.provider || parseFundSize(etf.fundSize) === 0))
+        return false;
       if (selectedIndex !== "Tous" && etf.index !== selectedIndex) return false;
       if (selectedType === "Capitalisant" && etf.type !== "accumulating")
         return false;
@@ -105,7 +109,9 @@ export default function ETFPage() {
     });
 
     return results;
-  }, [allETFs, search, selectedIndex, selectedType, selectedFSMA, sortKey]);
+  }, [allETFs, search, selectedIndex, selectedType, selectedFSMA, sortKey, hideIncomplete]);
+
+  const { visible, Sentinel } = useInfiniteScroll(filtered);
 
   if (loading) return <Spinner text="Chargement des ETFs..." />;
   if (error)
@@ -199,6 +205,23 @@ export default function ETFPage() {
         </div>
       </div>
 
+      {/* Hide incomplete toggle */}
+      <label className="flex items-center gap-2 px-4 pb-1.5 cursor-pointer select-none">
+        <div
+          role="switch"
+          aria-checked={hideIncomplete}
+          onClick={() => setHideIncomplete((v) => !v)}
+          className={`relative w-9 h-5 rounded-full transition-colors ${hideIncomplete ? "bg-blue-500" : "bg-gray-300"}`}
+        >
+          <div
+            className={`absolute top-0.5 left-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform ${hideIncomplete ? "translate-x-4" : ""}`}
+          />
+        </div>
+        <span className="text-[0.78rem] text-gray-500">
+          Masquer sans provider / taille 0
+        </span>
+      </label>
+
       {/* Count */}
       <div className="px-4 pb-1.5 text-[0.78rem] text-gray-400 font-medium">
         {filtered.length} résultat(s)
@@ -209,9 +232,10 @@ export default function ETFPage() {
         <StateMessage title="Aucun résultat" />
       ) : (
         <div className="flex flex-col gap-2.5 px-4 pb-6">
-          {filtered.map((etf) => (
+          {visible.map((etf) => (
             <ETFCard key={etf.isin} etf={etf} />
           ))}
+          <Sentinel />
         </div>
       )}
     </div>

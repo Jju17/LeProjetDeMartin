@@ -98,6 +98,19 @@ async function enrichWithQuotes(etfs: ETFData[]): Promise<ETFData[]> {
 }
 
 // ---------------------------------------------------------------------------
+// In-memory cache (persists across warm invocations)
+// ---------------------------------------------------------------------------
+
+interface CacheEntry<T> {
+  data: T;
+  timestamp: number;
+}
+
+const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
+let etfCache: CacheEntry<ETFData[]> | null = null;
+let fsmaCache: CacheEntry<FSMACompartment[]> | null = null;
+
+// ---------------------------------------------------------------------------
 // Cloud Functions
 // ---------------------------------------------------------------------------
 
@@ -106,11 +119,15 @@ async function enrichWithQuotes(etfs: ETFData[]): Promise<ETFData[]> {
  * Returns all ETFs from Firestore. Data is seeded by the local scraper script.
  */
 export const getETFs = onRequest(
-  { cors: true, memory: "128MiB", timeoutSeconds: 15 },
+  { cors: true, memory: "128MiB", timeoutSeconds: 15, region: "europe-west1" },
   async (_req, res) => {
     try {
-      const etfs = await getETFsFromFirestore();
-      res.json({ etfs, count: etfs.length });
+      const now = Date.now();
+      if (!etfCache || now - etfCache.timestamp > CACHE_TTL_MS) {
+        etfCache = { data: await getETFsFromFirestore(), timestamp: now };
+      }
+      res.set("Cache-Control", "public, max-age=3600, s-maxage=3600");
+      res.json({ etfs: etfCache.data, count: etfCache.data.length });
     } catch (error) {
       console.error("Error fetching ETFs:", error);
       res.status(500).json({ etfs: [], count: 0, error: String(error) });
@@ -151,12 +168,19 @@ interface FSMACompartment {
  * Returns all FSMA compartments from Firestore.
  */
 export const getFSMA = onRequest(
-  { cors: true, memory: "256MiB", timeoutSeconds: 30 },
+  { cors: true, memory: "256MiB", timeoutSeconds: 30, region: "europe-west1" },
   async (_req, res) => {
     try {
-      const snapshot = await db.collection("fsma").get();
-      const compartments = snapshot.docs.map((doc) => doc.data() as FSMACompartment);
-      res.json({ compartments, count: compartments.length });
+      const now = Date.now();
+      if (!fsmaCache || now - fsmaCache.timestamp > CACHE_TTL_MS) {
+        const snapshot = await db.collection("fsma").get();
+        fsmaCache = {
+          data: snapshot.docs.map((doc) => doc.data() as FSMACompartment),
+          timestamp: now,
+        };
+      }
+      res.set("Cache-Control", "public, max-age=3600, s-maxage=3600");
+      res.json({ compartments: fsmaCache.data, count: fsmaCache.data.length });
     } catch (error) {
       console.error("Error fetching FSMA data:", error);
       res.status(500).json({ compartments: [], count: 0, error: String(error) });
@@ -169,7 +193,7 @@ export const getFSMA = onRequest(
  * Refreshes quotes for all ETFs in Firestore.
  */
 export const scheduledQuoteRefresh = onSchedule(
-  { schedule: "0 6 * * *", memory: "256MiB", timeoutSeconds: 300 },
+  { schedule: "0 6 * * *", memory: "256MiB", timeoutSeconds: 300, region: "europe-west1" },
   async () => {
     try {
       const etfs = await getETFsFromFirestore();
@@ -177,6 +201,7 @@ export const scheduledQuoteRefresh = onSchedule(
 
       const enriched = await enrichWithQuotes(etfs);
       await saveETFsToFirestore(enriched);
+      etfCache = null; // invalidate cache after refresh
       console.log(`Refreshed quotes for ${enriched.length} ETFs.`);
     } catch (error) {
       console.error("Scheduled quote refresh failed:", error);

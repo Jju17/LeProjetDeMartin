@@ -23,7 +23,7 @@ extension ETFClient: TestDependencyKey {
 extension ETFClient: DependencyKey {
     // Replace with your deployed Cloud Function URL after running:
     //   firebase deploy --only functions
-    static let cloudFunctionURL = "https://us-central1-leprojetdemartin.cloudfunctions.net/getETFs"
+    static let cloudFunctionURL = "https://europe-west1-leprojetdemartin.cloudfunctions.net/getETFs"
 
     static let liveValue = Self(
         fetch: {
