@@ -1,0 +1,2396 @@
+[
+  {
+    "isin": "IE000J7QYHD8",
+    "name": "abrdn Future Raw Materials UCITS ETF USD Acc",
+    "fsmaCode": "06511-0003",
+    "matchType": "prefix",
+    "fsmaName": "Abrdn Future Raw Materials UCITS ETF"
+  },
+  {
+    "isin": "IE000G9O8QD4",
+    "name": "abrdn Future Supply Chains UCITS ETF USD Acc",
+    "fsmaCode": "06511-0002",
+    "matchType": "prefix",
+    "fsmaName": "Abrdn Future Supply Chains UCITS ETF"
+  },
+  {
+    "isin": "LU1135865084",
+    "name": "Amundi Core S&P 500 Swap UCITS ETF Acc",
+    "fsmaCode": "00889-0019",
+    "matchType": "exact",
+    "fsmaName": "Amundi Core S&P 500 Swap"
+  },
+  {
+    "isin": "LU2977997381",
+    "name": "Amundi Core USD Corporate Bond UCITS ETF EUR Hedged Acc",
+    "fsmaCode": "02150-0040",
+    "matchType": "exact",
+    "fsmaName": "Amundi Core Usd Corporate Bond"
+  },
+  {
+    "isin": "LU1812090543",
+    "name": "Amundi EUR High Yield Corporate Bond ESG UCITS ETF Dis EUR",
+    "fsmaCode": "02150-0046",
+    "matchType": "exact",
+    "fsmaName": "Amundi Eur High Yield Corporate Bond Esg"
+  },
+  {
+    "isin": "LU1617164998",
+    "name": "Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF Dist",
+    "fsmaCode": "02150-0047",
+    "matchType": "exact",
+    "fsmaName": "Amundi Eur Short Term High Yield Corporate Bond Esg"
+  },
+  {
+    "isin": "LU2023678878",
+    "name": "Amundi MSCI Digital Economy ESG Screened ETF Accumulation EUR",
+    "fsmaCode": "00889-0039",
+    "matchType": "prefix",
+    "fsmaName": "Amundi Msci Digital Economy"
+  },
+  {
+    "isin": "LU2023678282",
+    "name": "Amundi MSCI Disruptive Technology ESG Screened ETF Accumulation EUR",
+    "fsmaCode": "00889-0035",
+    "matchType": "prefix",
+    "fsmaName": "Amundi Msci Disruptive Technology"
+  },
+  {
+    "isin": "LU1598690169",
+    "name": "Amundi MSCI EMU Value Factor ETF Distribution EUR",
+    "fsmaCode": "00889-0036",
+    "matchType": "exact",
+    "fsmaName": "Amundi Msci Emu Value Factor"
+  },
+  {
+    "isin": "LU2130768844",
+    "name": "Amundi MSCI Europe Climate Paris Aligned UCITS ETF Acc",
+    "fsmaCode": "02150-0002",
+    "matchType": "exact",
+    "fsmaName": "Amundi Msci Europe Climate Paris Aligned"
+  },
+  {
+    "isin": "LU1598688189",
+    "name": "Amundi MSCI Europe Growth UCITS ETF Dist",
+    "fsmaCode": "02150-0051",
+    "matchType": "exact",
+    "fsmaName": "Amundi Msci Europe Growth"
+  },
+  {
+    "isin": "LU2023678449",
+    "name": "Amundi MSCI Millennials ESG Screened ETF Accumulation EUR",
+    "fsmaCode": "00889-0038",
+    "matchType": "prefix",
+    "fsmaName": "Amundi Msci Millennials"
+  },
+  {
+    "isin": "LU1602145036",
+    "name": "Amundi MSCI Pacific ex Japan UCITS DR",
+    "fsmaCode": "00889-0018",
+    "matchType": "prefix",
+    "fsmaName": "Amundi Msci Pacific Ex Japan"
+  },
+  {
+    "isin": "IE0009DRDY20",
+    "name": "Amundi Prime Global UCITS ETF Acc EUR",
+    "fsmaCode": "02150-0036",
+    "matchType": "exact",
+    "fsmaName": "Amundi Prime Global"
+  },
+  {
+    "isin": "IE000QIF5N15",
+    "name": "Amundi Prime Global UCITS ETF Dist",
+    "fsmaCode": "02150-0036",
+    "matchType": "exact",
+    "fsmaName": "Amundi Prime Global"
+  },
+  {
+    "isin": "LU1931974775",
+    "name": "Amundi Prime Japan UCITS ETF DR (D)",
+    "fsmaCode": "02150-0038",
+    "matchType": "exact",
+    "fsmaName": "Amundi Prime Japan"
+  },
+  {
+    "isin": "IE000IEGVMH6",
+    "name": "Amundi Prime USA UCITS ETF Dis EUR",
+    "fsmaCode": "02150-0042",
+    "matchType": "exact",
+    "fsmaName": "Amundi Prime Usa"
+  },
+  {
+    "isin": "LU2098887263",
+    "name": "Amundi S&P 500 Screened UCITS ETF - Acc EUR HEDGED",
+    "fsmaCode": "02150-0015",
+    "matchType": "exact",
+    "fsmaName": "Amundi S&P 500 Screened"
+  },
+  {
+    "isin": "LU1407888723",
+    "name": "Amundi US Treasury Bond 3-7Y UCITS ETF GBP Hedged Dist",
+    "fsmaCode": "00889-0026",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond 3-7Y"
+  },
+  {
+    "isin": "LU1407887915",
+    "name": "Amundi US Treasury Bond 7-10Y UCITS ETF Acc",
+    "fsmaCode": "00889-0028",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond 7-10Y"
+  },
+  {
+    "isin": "LU1407888137",
+    "name": "Amundi US Treasury Bond 7-10Y UCITS ETF EUR Hedged Acc",
+    "fsmaCode": "00889-0028",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond 7-10Y"
+  },
+  {
+    "isin": "LU2338178481",
+    "name": "Amundi US Treasury Bond 7-10Y UCITS ETF HKD Hedged Acc",
+    "fsmaCode": "00889-0028",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond 7-10Y"
+  },
+  {
+    "isin": "LU1407890547",
+    "name": "Amundi US Treasury Bond Long Dated UCITS ETF Acc",
+    "fsmaCode": "00889-0032",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond Long Dated"
+  },
+  {
+    "isin": "LU2338178648",
+    "name": "Amundi US Treasury Bond Long Dated UCITS ETF HKD Hedged Dist",
+    "fsmaCode": "00889-0032",
+    "matchType": "exact",
+    "fsmaName": "Amundi Us Treasury Bond Long Dated"
+  },
+  {
+    "isin": "LU1435356065",
+    "name": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Acc",
+    "fsmaCode": "02150-0048",
+    "matchType": "exact",
+    "fsmaName": "Amundi Usd High Yield Corporate Bond Esg"
+  },
+  {
+    "isin": "LU1435356149",
+    "name": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Dis EUR",
+    "fsmaCode": "02150-0048",
+    "matchType": "exact",
+    "fsmaName": "Amundi Usd High Yield Corporate Bond Esg"
+  },
+  {
+    "isin": "LU1435356495",
+    "name": "Amundi USD High Yield Corporate Bond ESG UCITS ETF EUR Hedged Dis",
+    "fsmaCode": "02150-0048",
+    "matchType": "exact",
+    "fsmaName": "Amundi Usd High Yield Corporate Bond Esg"
+  },
+  {
+    "isin": "IE00BJSBC011",
+    "name": "Goldman Sachs Access China Government Bond UCITS ETF USD Acc",
+    "fsmaCode": "03817-0004",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Access China Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BJSBCS90",
+    "name": "Goldman Sachs Access China Government Bond UCITS ETF USD Inc",
+    "fsmaCode": "03817-0004",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Access China Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000RITWOD4",
+    "name": "Goldman Sachs Alpha Enhanced Europe Equity Active UCITS ETF CLASS EUR (Acc)",
+    "fsmaCode": "03817-0017",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Alpha Enhanced Europe Equity Active Ucits Etf"
+  },
+  {
+    "isin": "IE000ZUTO1I5",
+    "name": "Goldman Sachs Alpha Enhanced Japan Equity Active UCITS ETF JPY (Acc)",
+    "fsmaCode": "03817-0016",
+    "matchType": "exact",
+    "fsmaName": "Goldman Sachs Alpha Enhanced Japan Equity Active Ucits Etf"
+  },
+  {
+    "isin": "IE000HYFO765",
+    "name": "Goldman Sachs Alpha Enhanced US Equity Active UCITS ETF USD (Acc)",
+    "fsmaCode": "03817-0015",
+    "matchType": "exact",
+    "fsmaName": "Goldman Sachs Alpha Enhanced US Equity Active Ucits Etf"
+  },
+  {
+    "isin": "IE000UFAX9L6",
+    "name": "Goldman Sachs Alpha Enhanced World Equity Active UCITS ETF CLASS USD (Acc)",
+    "fsmaCode": "03817-0018",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Alpha Enhanced World Equity Active Ucits Etf"
+  },
+  {
+    "isin": "IE000GZD8ME7",
+    "name": "Goldman Sachs Emerging Markets Green and Social Bond Active UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "03817-0013",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Emerging Markets Green And Social Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000EC86C06",
+    "name": "Goldman Sachs Emerging Markets Green and Social Bond Active UCITS ETF USD (Dist)",
+    "fsmaCode": "03817-0013",
+    "matchType": "exact",
+    "fsmaName": "Goldman Sachs Emerging Markets Green And Social Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000UZO4IC7",
+    "name": "Goldman Sachs Emerging Markets Hard Currency Bond Active UCITS ETF Class EUR Hedged (Acc)",
+    "fsmaCode": "03817-0019",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Emerging Markets Hard Currency Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE0000MK7GG1",
+    "name": "Goldman Sachs EUR Government Bond Active UCITS ETF EUR (Acc)",
+    "fsmaCode": "03817-0020",
+    "matchType": "exact",
+    "fsmaName": "Goldman Sachs Eur Government Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000M02BVY5",
+    "name": "Goldman Sachs EUR High Yield Bond Active UCITS ETF CLASS EUR (Dist)",
+    "fsmaCode": "03817-0012",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Eur High Yield Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000O6GI299",
+    "name": "Goldman Sachs EUR Investment Grade Corporate Bond Active UCITS ETF CLASS EUR (Acc) Capitalisation",
+    "fsmaCode": "03817-0009",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Eur Investment Grade Corporate Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE0009EDBBS3",
+    "name": "Goldman Sachs EUR Investment Grade Corporate Bond Active UCITS ETF CLASS EUR (Dist)",
+    "fsmaCode": "03817-0009",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Eur Investment Grade Corporate Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000FRX67F3",
+    "name": "Goldman Sachs Global Government Bond Active UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "03817-0021",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Global Government Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE0004IR5U82",
+    "name": "Goldman Sachs Global Green Bond UCITS ETF Class GBP-Hedged (Dist)",
+    "fsmaCode": "03817-0008",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Global Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000SYQFJV2",
+    "name": "Goldman Sachs Global Green Bond UCITS ETF EUR (Dist)",
+    "fsmaCode": "03817-0008",
+    "matchType": "exact",
+    "fsmaName": "Goldman Sachs Global Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000L0X6L81",
+    "name": "Goldman Sachs Global Green Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "03817-0008",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Global Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000REVDBO3",
+    "name": "Goldman Sachs Global Green Bond UCITS ETF USD Hedged (Dist)",
+    "fsmaCode": "03817-0008",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Global Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE0006B9CPY7",
+    "name": "Goldman Sachs USD High Yield Bond Active UCITS ETF CLASS USD (Dist)",
+    "fsmaCode": "03817-0011",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Usd High Yield Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE000RRCJI06",
+    "name": "Goldman Sachs USD Investment Grade Corporate Bond Active UCITS ETF CLASS USD (Dist)",
+    "fsmaCode": "03817-0010",
+    "matchType": "prefix",
+    "fsmaName": "Goldman Sachs Usd Investment Grade Corporate Bond Active Ucits Etf"
+  },
+  {
+    "isin": "IE00B4K6B022",
+    "name": "HSBC EURO STOXX 50 UCITS ETF",
+    "fsmaCode": "03858-0004",
+    "matchType": "exact",
+    "fsmaName": "HSBC Euro Stoxx 50 Ucits Etf"
+  },
+  {
+    "isin": "IE000MWUQBJ0",
+    "name": "HSBC Euro STOXX 50 UCITS ETF - EUR (Acc)\r\n",
+    "fsmaCode": "03858-0004",
+    "matchType": "prefix",
+    "fsmaName": "HSBC Euro Stoxx 50 Ucits Etf"
+  },
+  {
+    "isin": "IE00B44T3H88",
+    "name": "HSBC MSCI China UCITS ETF",
+    "fsmaCode": "03858-0008",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci China Ucits Etf"
+  },
+  {
+    "isin": "IE0007P4PBU1",
+    "name": "HSBC MSCI China UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "03858-0008",
+    "matchType": "prefix",
+    "fsmaName": "HSBC Msci China Ucits Etf"
+  },
+  {
+    "isin": "IE00B5SSQT16",
+    "name": "HSBC MSCI Emerging Markets UCITS ETF",
+    "fsmaCode": "03858-0009",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci Emerging Markets Ucits Etf"
+  },
+  {
+    "isin": "IE000KCS7J59",
+    "name": "HSBC MSCI Emerging Markets UCITS ETF USD Acc EUR",
+    "fsmaCode": "03858-0009",
+    "matchType": "prefix",
+    "fsmaName": "HSBC Msci Emerging Markets Ucits Etf"
+  },
+  {
+    "isin": "IE00B46G8275",
+    "name": "HSBC MSCI Indonesia UCITS ETF",
+    "fsmaCode": "03858-0017",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci Indonesia Ucits Etf"
+  },
+  {
+    "isin": "IE0006RFB3X2",
+    "name": "HSBC MSCI JAPAN UCITS ETF",
+    "fsmaCode": "03858-0010",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00B5SG8Z57",
+    "name": "HSBC MSCI Pacific ex Japan UCITS ETF",
+    "fsmaCode": "03858-0011",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci Pacific Ex Japan Ucits Etf"
+  },
+  {
+    "isin": "IE000SGVQIZ9",
+    "name": "HSBC MSCI Pacific ex Japan UCITS ETF USD (Acc)",
+    "fsmaCode": "03858-0011",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci Pacific Ex Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00B4X9L533",
+    "name": "HSBC MSCI World UCITS ETF",
+    "fsmaCode": "03858-0012",
+    "matchType": "exact",
+    "fsmaName": "HSBC Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE000QMIHY81",
+    "name": "HSBC MSCI World UCITS ETF EUR Hedged (Acc) EUR",
+    "fsmaCode": "03858-0012",
+    "matchType": "prefix",
+    "fsmaName": "HSBC Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE000UQND7H4",
+    "name": "HSBC MSCI World UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "03858-0012",
+    "matchType": "prefix",
+    "fsmaName": "HSBC Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE00B5KQNG97",
+    "name": "HSBC S&P 500 UCITS ETF",
+    "fsmaCode": "03858-0013",
+    "matchType": "exact",
+    "fsmaName": "HSBC S&P 500 Ucits Etf"
+  },
+  {
+    "isin": "IE000JZ473P7",
+    "name": "HSBC S&P 500 UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "03858-0013",
+    "matchType": "prefix",
+    "fsmaName": "HSBC S&P 500 Ucits Etf"
+  },
+  {
+    "isin": "IE00B94ZB998",
+    "name": "Invesco Morningstar US Energy Infrastructure MLP UCITS ETF",
+    "fsmaCode": "01071-0002",
+    "matchType": "exact",
+    "fsmaName": "Invesco Morningstar Us Energy Infrastructure Mlp Ucits Etf"
+  },
+  {
+    "isin": "IE00B8CJW150",
+    "name": "Invesco Morningstar US Energy Infrastructure MLP UCITS ETF (Dist)",
+    "fsmaCode": "01071-0002",
+    "matchType": "exact",
+    "fsmaName": "Invesco Morningstar Us Energy Infrastructure Mlp Ucits Etf"
+  },
+  {
+    "isin": "IE00BZ173W74",
+    "name": "iShares $ Corp Bond Interest Rate Hedged UCITS ETF USD (Acc)",
+    "fsmaCode": "00991-0014",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Corp Bond Interest Rate Hedged Ucits Etf"
+  },
+  {
+    "isin": "IE00BCLWRB83",
+    "name": "iShares $ Corp Bond Interest Rate Hedged UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0014",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Corp Bond Interest Rate Hedged Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFK3736",
+    "name": "iShares $ Corp Bond UCITS ETF",
+    "fsmaCode": "00991-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK7Y2Q41",
+    "name": "iShares $ Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00991-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BF3N6Y61",
+    "name": "iShares $ Corp Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00991-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE0032895942",
+    "name": "iShares $ Corp Bond UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK6M1392",
+    "name": "iShares $ High Yield Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00996-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFJYL11",
+    "name": "iShares $ High Yield Corp Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00996-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B4PY7Y77",
+    "name": "iShares $ High Yield Corp Bond UCITS ETF USD (Dist) EUR",
+    "fsmaCode": "00996-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000AWT6D61",
+    "name": "iShares $ Short Duration Corp Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "01287-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Short Duration Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BCRY5Y77",
+    "name": "iShares $ Short Duration Corp Bond UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Short Duration Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BCRY6003",
+    "name": "iShares $ Short Duration High Yield Corp Bond UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0002",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Short Duration High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGSF1X88",
+    "name": "iShares $ Treasury Bond 0-1yr UCITS ETF USD (Acc)",
+    "fsmaCode": "00991-0028",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond 0-1yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BGR7L912",
+    "name": "iShares $ Treasury Bond 0-1yr UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0028",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond 0-1yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BK7XZ629",
+    "name": "iShares $ Treasury Bond 1-3yr UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00991-0027",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond 1-3yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFK1573",
+    "name": "iShares $ Treasury Bond 1-3yr UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00991-0027",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond 1-3yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFK1N50",
+    "name": "iShares $ Treasury Bond 1-3yr UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00991-0027",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond 1-3yr Ucits Etf"
+  },
+  {
+    "isin": "IE00B14X4S71",
+    "name": "iShares $ Treasury Bond 1-3yr UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0027",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond 1-3yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BK7Y2R57",
+    "name": "iShares $ Treasury Bond 7-10yr UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00996-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond 7-10yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BGPP6697",
+    "name": "iShares $ Treasury Bond 7-10yr UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00996-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond 7-10yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BGPP6580",
+    "name": "iShares $ Treasury Bond 7-10yr UCITS ETF USD",
+    "fsmaCode": "00996-0024",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond 7-10yr Ucits Etf"
+  },
+  {
+    "isin": "IE00B1FZS798",
+    "name": "iShares $ Treasury Bond 7-10yr UCITS ETF USD (Dist)",
+    "fsmaCode": "00996-0024",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond 7-10yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BKTN1T54",
+    "name": "iShares $ Treasury Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00991-0029",
+    "matchType": "prefix",
+    "fsmaName": "iShares $ Treasury Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK95B138",
+    "name": "iShares $ Treasury Bond UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0029",
+    "matchType": "exact",
+    "fsmaName": "iShares $ Treasury Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000F6G1DE0",
+    "name": "iShares € Corp Bond 1-5yr UCITS ETF EUR (Acc)",
+    "fsmaCode": "00992-0015",
+    "matchType": "exact",
+    "fsmaName": "iShares € Corp Bond 1-5yr Ucits Etf"
+  },
+  {
+    "isin": "IE000WY37YU4",
+    "name": "iShares € Corp Bond 1-5yr UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00992-0015",
+    "matchType": "prefix",
+    "fsmaName": "iShares € Corp Bond 1-5yr Ucits Etf"
+  },
+  {
+    "isin": "IE0000BH4WF5",
+    "name": "iShares € Corp Bond ex-Financials UCITS ETF EUR (Acc)",
+    "fsmaCode": "00992-0002",
+    "matchType": "exact",
+    "fsmaName": "iShares € Corp Bond Ex-Financials Ucits Etf"
+  },
+  {
+    "isin": "IE00B87RLX93",
+    "name": "iShares € Corp Bond Financials UCITS ETF EUR (Dist)",
+    "fsmaCode": "02276-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares € Corp Bond Financials Ucits Etf"
+  },
+  {
+    "isin": "IE0032523478",
+    "name": "iShares € Corp Bond Large Cap UCITS ETF EUR (Dist) EUR",
+    "fsmaCode": "00991-0022",
+    "matchType": "prefix",
+    "fsmaName": "iShares € Corp Bond Large Cap Ucits Etf"
+  },
+  {
+    "isin": "IE00B3B8Q275",
+    "name": "iShares € Covered Bond UCITS ETF EUR (Dist)",
+    "fsmaCode": "00992-0012",
+    "matchType": "exact",
+    "fsmaName": "iShares € Covered Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B1FZS806",
+    "name": "iShares € Govt Bond 7-10yr UCITS ETF",
+    "fsmaCode": "00996-0023",
+    "matchType": "exact",
+    "fsmaName": "iShares € Govt Bond 7-10yr Ucits Etf"
+  },
+  {
+    "isin": "IE00BLDGH553",
+    "name": "iShares € Govt Bond Climate UCITS ETF EUR (Acc)",
+    "fsmaCode": "00992-0022",
+    "matchType": "exact",
+    "fsmaName": "iShares € Govt Bond Climate Ucits Etf"
+  },
+  {
+    "isin": "IE00BLDGH447",
+    "name": "iShares € Govt Bond Climate UCITS ETF EUR (Dist)",
+    "fsmaCode": "00992-0022",
+    "matchType": "exact",
+    "fsmaName": "iShares € Govt Bond Climate Ucits Etf"
+  },
+  {
+    "isin": "IE000IZO7033",
+    "name": "iShares € Green Bond UCITS ETF",
+    "fsmaCode": "00996-0032",
+    "matchType": "exact",
+    "fsmaName": "iShares € Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMDBMN04",
+    "name": "iShares € Green Bond UCITS ETF EUR Inc",
+    "fsmaCode": "00996-0032",
+    "matchType": "prefix",
+    "fsmaName": "iShares € Green Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK6NC514",
+    "name": "iShares € High Yield Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00991-0005",
+    "matchType": "prefix",
+    "fsmaName": "iShares € High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B66F4759",
+    "name": "iShares € High Yield Corp Bond UCITS ETF EUR (Dist) EUR",
+    "fsmaCode": "00991-0005",
+    "matchType": "prefix",
+    "fsmaName": "iShares € High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BF3NC260",
+    "name": "iShares € High Yield Corp Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00991-0005",
+    "matchType": "prefix",
+    "fsmaName": "iShares € High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000RHYOR04",
+    "name": "iShares € Ultrashort Bond UCITS ETF EUR (Acc)",
+    "fsmaCode": "01287-0003",
+    "matchType": "exact",
+    "fsmaName": "iShares € Ultrashort Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMTX2B82",
+    "name": "iShares AEX UCITS ETF EUR (Acc)",
+    "fsmaCode": "00991-0021",
+    "matchType": "exact",
+    "fsmaName": "iShares Aex Ucits Etf"
+  },
+  {
+    "isin": "IE00B0M62Y33",
+    "name": "iShares AEX UCITS ETF EUR (Dist)",
+    "fsmaCode": "00991-0021",
+    "matchType": "exact",
+    "fsmaName": "iShares Aex Ucits Etf"
+  },
+  {
+    "isin": "IE00B14X4T88",
+    "name": "iShares Asia Pacific Dividend UCITS ETF USD (Dist) EUR",
+    "fsmaCode": "00991-0002",
+    "matchType": "prefix",
+    "fsmaName": "iShares Asia Pacific Dividend Ucits Etf"
+  },
+  {
+    "isin": "IE00BGDPWV87",
+    "name": "iShares Asia Property Yield UCITS ETF USD (Acc)",
+    "fsmaCode": "00996-0002",
+    "matchType": "exact",
+    "fsmaName": "iShares Asia Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00BYZK4552",
+    "name": "iShares Automation & Robotics UCITS ETF USD (Acc)",
+    "fsmaCode": "01287-0007",
+    "matchType": "exact",
+    "fsmaName": "iShares Automation & Robotics Ucits Etf"
+  },
+  {
+    "isin": "IE00BYWZ0333",
+    "name": "iShares Automation & Robotics UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0007",
+    "matchType": "exact",
+    "fsmaName": "iShares Automation & Robotics Ucits Etf"
+  },
+  {
+    "isin": "IE00BMC7BF44",
+    "name": "iShares China CNY Govt Bond UCITS ETF",
+    "fsmaCode": "01287-0039",
+    "matchType": "exact",
+    "fsmaName": "iShares China Cny Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000QOU09J7",
+    "name": "iShares China Large Cap UCITS ETF USD Acc EUR",
+    "fsmaCode": "00991-0003",
+    "matchType": "prefix",
+    "fsmaName": "iShares China Large Cap Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFJYN35",
+    "name": "iShares Core € Corp Bond UCITS ETF",
+    "fsmaCode": "00992-0003",
+    "matchType": "exact",
+    "fsmaName": "iShares Core € Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK6NC407",
+    "name": "iShares Core € Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00992-0003",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core € Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00093GOJ04",
+    "name": "iShares Core € Corp Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00992-0003",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core € Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMFJGP26",
+    "name": "iShares Core € Govt Bond UCITS ETF CHF Hedged Acc",
+    "fsmaCode": "00992-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core € Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B4WXJJ64",
+    "name": "iShares Core € Govt Bond UCITS ETF EUR (Dist)",
+    "fsmaCode": "00992-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Core € Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000HARJEE2",
+    "name": "iShares Core FTSE 100 UCITS ETF EUR Hedged (Acc) EUR",
+    "fsmaCode": "00991-0017",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core Ftse 100 Ucits Etf"
+  },
+  {
+    "isin": "IE000MAO75G5",
+    "name": "iShares Core MSCI Europe UCITS ETF EUR (Acc)",
+    "fsmaCode": "00996-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Core Msci Europe Ucits Etf"
+  },
+  {
+    "isin": "IE00B4K48X80",
+    "name": "iShares Core MSCI Europe UCITS ETF EUR (Acc)",
+    "fsmaCode": "00996-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Core Msci Europe Ucits Etf"
+  },
+  {
+    "isin": "IE00BKT6FV49",
+    "name": "iShares Core MSCI Japan IMI UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00992-0019",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core Msci Japan Imi Ucits Etf"
+  },
+  {
+    "isin": "IE00B4L5YX21",
+    "name": "iShares Core MSCI Japan IMI UCITS ETF USD (Acc)",
+    "fsmaCode": "00992-0019",
+    "matchType": "exact",
+    "fsmaName": "iShares Core Msci Japan Imi Ucits Etf"
+  },
+  {
+    "isin": "IE00BFM15T99",
+    "name": "iShares Core MSCI Japan IMI UCITS ETF USD (Dist)",
+    "fsmaCode": "00992-0019",
+    "matchType": "exact",
+    "fsmaName": "iShares Core Msci Japan Imi Ucits Etf"
+  },
+  {
+    "isin": "IE0031442068",
+    "name": "iShares Core S&P 500 UCITS ETF USD (Dist)",
+    "fsmaCode": "00991-0013",
+    "matchType": "exact",
+    "fsmaName": "iShares Core S&P 500 Ucits Etf Usd (Dist)"
+  },
+  {
+    "isin": "IE000BI0GCN3",
+    "name": "iShares Core UK Gilts UCITS ETF EUR (Dist)",
+    "fsmaCode": "00996-0010",
+    "matchType": "exact",
+    "fsmaName": "iShares Core Uk Gilts Ucits Etf"
+  },
+  {
+    "isin": "IE000PYIUPH0",
+    "name": "iShares Core UK Gilts UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00996-0010",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core Uk Gilts Ucits Etf"
+  },
+  {
+    "isin": "IE0004J6PFL7",
+    "name": "iShares Core UK Gilts UCITS ETF USD Hedged (Dist)",
+    "fsmaCode": "00996-0010",
+    "matchType": "prefix",
+    "fsmaName": "iShares Core Uk Gilts Ucits Etf"
+  },
+  {
+    "isin": "IE00BDZVHD04",
+    "name": "iShares Developed Markets Property Yield UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00996-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Developed Markets Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00BDZVHC96",
+    "name": "iShares Developed Markets Property Yield UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00996-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Developed Markets Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00BFM6T921",
+    "name": "iShares Developed Markets Property Yield UCITS ETF USD (Acc)",
+    "fsmaCode": "00996-0004",
+    "matchType": "exact",
+    "fsmaName": "iShares Developed Markets Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00B86MWN23",
+    "name": "iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Acc) EUR",
+    "fsmaCode": "02276-0005",
+    "matchType": "prefix",
+    "fsmaName": "iShares Edge Msci Europe Minimum Volatility Ucits Etf"
+  },
+  {
+    "isin": "IE00BG13YK79",
+    "name": "iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Dist)",
+    "fsmaCode": "02276-0005",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Europe Minimum Volatility Ucits Etf"
+  },
+  {
+    "isin": "IE00BQN1K786",
+    "name": "iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc)",
+    "fsmaCode": "01287-0017",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Europe Momentum Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BG13YJ64",
+    "name": "iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Dist)",
+    "fsmaCode": "01287-0017",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Europe Momentum Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BG13YH41",
+    "name": "iShares Edge MSCI Europe Value Factor UCITS ETF EUR (Dist)",
+    "fsmaCode": "01287-0018",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Europe Value Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BD1F4N50",
+    "name": "iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "01287-0014",
+    "matchType": "prefix",
+    "fsmaName": "iShares Edge Msci Usa Momentum Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BFF5RZ82",
+    "name": "iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0014",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Usa Momentum Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BD1F4L37",
+    "name": "iShares Edge MSCI USA Quality Factor UCITS ETF USD (Acc)",
+    "fsmaCode": "01287-0013",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Usa Quality Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BF2QSQ20",
+    "name": "iShares Edge MSCI USA Quality Factor UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0013",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Usa Quality Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BFF5RX68",
+    "name": "iShares Edge MSCI USA Value Factor UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0010",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge Msci Usa Value Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BP3QZB59",
+    "name": "iShares Edge MSCI World Value Factor UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "01287-0011",
+    "matchType": "prefix",
+    "fsmaName": "iShares Edge Msci World Value Factor Ucits Etf"
+  },
+  {
+    "isin": "IE00BYX8XD24",
+    "name": "iShares Edge S&P 500 Minimum Volatility UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "02276-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Edge S&P 500 Minimum Volatility Ucits Etf"
+  },
+  {
+    "isin": "IE00B6SPMN59",
+    "name": "iShares Edge S&P 500 Minimum Volatility UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "02276-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Edge S&P 500 Minimum Volatility Ucits Etf"
+  },
+  {
+    "isin": "IE00BD93YH54",
+    "name": "iShares Edge S&P 500 Minimum Volatility UCITS ETF USD (Dist)",
+    "fsmaCode": "02276-0004",
+    "matchType": "exact",
+    "fsmaName": "iShares Edge S&P 500 Minimum Volatility Ucits Etf"
+  },
+  {
+    "isin": "IE00BFM6T814",
+    "name": "iShares Emerging Asia Local Govt Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "00992-0009",
+    "matchType": "exact",
+    "fsmaName": "iShares Emerging Asia Local Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B0M62S72",
+    "name": "iShares Euro Dividend UCITS ETF EUR (Dist) EUR",
+    "fsmaCode": "00991-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Euro Dividend Ucits Etf"
+  },
+  {
+    "isin": "IE00BGDQ0L74",
+    "name": "iShares European Property Yield UCITS ETF EUR (Acc)",
+    "fsmaCode": "00991-0007",
+    "matchType": "exact",
+    "fsmaName": "iShares European Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFJYP58",
+    "name": "iShares Fallen Angels High Yield Corp Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "01287-0004",
+    "matchType": "exact",
+    "fsmaName": "iShares Fallen Angels High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK0TB144",
+    "name": "iShares Global Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00991-0023",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BJSFQW37",
+    "name": "iShares Global Corp Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00991-0023",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFK3G24",
+    "name": "iShares Global Corp Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00991-0023",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFM6TB42",
+    "name": "iShares Global Corp Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "00991-0023",
+    "matchType": "exact",
+    "fsmaName": "iShares Global Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BF3N6Z78",
+    "name": "iShares Global Corp Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00991-0023",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFK3H31",
+    "name": "iShares Global Govt Bond UCITS ETF",
+    "fsmaCode": "00992-0013",
+    "matchType": "exact",
+    "fsmaName": "iShares Global Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMDBMM96",
+    "name": "iShares Global Govt Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00992-0013",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKT6FT27",
+    "name": "iShares Global Govt Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00992-0013",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK7Y2P34",
+    "name": "iShares Global Govt Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00992-0013",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKBF4J08",
+    "name": "iShares Global High Yield Corp Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00991-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00091SR7N7",
+    "name": "iShares Global High Yield Corp Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00991-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BJSFR200",
+    "name": "iShares Global High Yield Corp Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00991-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BJSFQX44",
+    "name": "iShares Global High Yield Corp Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00991-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global High Yield Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKPT2S34",
+    "name": "iShares Global Inflation Linked Govt Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00992-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Inflation Linked Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BD8PH174",
+    "name": "iShares Global Inflation Linked Govt Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00992-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Inflation Linked Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMDBML89",
+    "name": "iShares Global Inflation Linked Govt Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00992-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Inflation Linked Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000TCZMZM8",
+    "name": "iShares Global Infrastructure UCITS ETF GBP Hedged (Acc)",
+    "fsmaCode": "00996-0018",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Infrastructure Ucits Etf"
+  },
+  {
+    "isin": "IE000CK5G8J7",
+    "name": "iShares Global Infrastructure UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "00996-0018",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Infrastructure Ucits Etf"
+  },
+  {
+    "isin": "IE00B1FZS467",
+    "name": "iShares Global Infrastructure UCITS ETF USD (Dist)",
+    "fsmaCode": "00996-0018",
+    "matchType": "exact",
+    "fsmaName": "iShares Global Infrastructure Ucits Etf"
+  },
+  {
+    "isin": "IE00B27YCF74",
+    "name": "iShares Global Timber & Forestry UCITS ETF",
+    "fsmaCode": "00996-0021",
+    "matchType": "exact",
+    "fsmaName": "iShares Global Timber & Forestry Ucits Etf"
+  },
+  {
+    "isin": "IE0003ZXNJY5",
+    "name": "iShares Global Timber & Forestry UCITS ETF USD Acc EUR",
+    "fsmaCode": "00996-0021",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Timber & Forestry Ucits Etf"
+  },
+  {
+    "isin": "IE000CFH1JX2",
+    "name": "iShares Global Water UCITS ETF USD Acc EUR",
+    "fsmaCode": "00996-0013",
+    "matchType": "prefix",
+    "fsmaName": "iShares Global Water Ucits Etf"
+  },
+  {
+    "isin": "IE00B6R52036",
+    "name": "iShares Gold Producers UCITS ETF USD (Acc)",
+    "fsmaCode": "00994-0003",
+    "matchType": "exact",
+    "fsmaName": "iShares Gold Producers Ucits Etf"
+  },
+  {
+    "isin": "IE0003V00UC4",
+    "name": "iShares Italy Govt Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00994-0007",
+    "matchType": "prefix",
+    "fsmaName": "iShares Italy Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMM9235",
+    "name": "iShares Italy Govt Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00994-0007",
+    "matchType": "prefix",
+    "fsmaName": "iShares Italy Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGQ0J979",
+    "name": "iShares J.P. Morgan $ EM Bond UCITS ETF CHF Hedged (Acc)",
+    "fsmaCode": "00996-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares J.P. Morgan $ EM Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFGJ734",
+    "name": "iShares J.P. Morgan $ EM Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00996-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares J.P. Morgan $ EM Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BYXYYK40",
+    "name": "iShares J.P. Morgan $ EM Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "00996-0006",
+    "matchType": "exact",
+    "fsmaName": "iShares J.P. Morgan $ EM Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKT1CS59",
+    "name": "iShares J.P. Morgan $ EM Corp Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00994-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares J.P. Morgan $ Em Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFM6TD65",
+    "name": "iShares J.P. Morgan $ EM Corp Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "00994-0006",
+    "matchType": "exact",
+    "fsmaName": "iShares J.P. Morgan $ Em Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00B6TLBW47",
+    "name": "iShares J.P. Morgan $ EM Corp Bond UCITS ETF USD (Dist)",
+    "fsmaCode": "00994-0006",
+    "matchType": "exact",
+    "fsmaName": "iShares J.P. Morgan $ Em Corp Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFZPF546",
+    "name": "iShares J.P. Morgan EM Local Govt Bond UCITS ETF USD (Acc)",
+    "fsmaCode": "00992-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares J.P. Morgan Em Local Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKPX3K41",
+    "name": "iShares MSCI AC Far East ex-Japan UCITS ETF USD Acc",
+    "fsmaCode": "00991-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Ac Far East Ex-Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00B6R52259",
+    "name": "iShares MSCI ACWI UCITS ETF USD (Acc) EUR",
+    "fsmaCode": "00994-0004",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Acwi Ucits Etf"
+  },
+  {
+    "isin": "IE00B27YCK28",
+    "name": "iShares MSCI EM Latin America UCITS ETF USD (Dist)",
+    "fsmaCode": "00996-0007",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Em Latin America Ucits Etf"
+  },
+  {
+    "isin": "IE00BYVJRP78",
+    "name": "iShares MSCI EM SRI UCITS ETF",
+    "fsmaCode": "01287-0027",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Em Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BGDQ0T50",
+    "name": "iShares MSCI EM SRI UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0027",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Em Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00B0M63177",
+    "name": "iShares MSCI EM UCITS ETF USD (Dist) EUR",
+    "fsmaCode": "00991-0010",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Em Ucits Etf Usd (Dist)"
+  },
+  {
+    "isin": "IE00BL6K8D99",
+    "name": "iShares MSCI EMU Paris-Aligned Climate UCITS ETF EUR Acc",
+    "fsmaCode": "05009-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Emu Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE000FOSCLU1",
+    "name": "iShares MSCI EMU Paris-Aligned Climate UCITS ETF EUR Dist",
+    "fsmaCode": "05009-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Emu Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE00BJLKK341",
+    "name": "iShares MSCI EMU SRI UCITS ETF",
+    "fsmaCode": "01287-0035",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Emu Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BL6K8C82",
+    "name": "iShares MSCI Europe Paris-Aligned Climate UCITS ETF EUR Acc EUR",
+    "fsmaCode": "00996-0033",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Europe Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE000HH3SU50",
+    "name": "iShares MSCI Europe Paris-Aligned Climate UCITS ETF EUR Dist",
+    "fsmaCode": "00996-0033",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Europe Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE00B52VJ196",
+    "name": "iShares MSCI Europe SRI UCITS ETF EUR (Acc)",
+    "fsmaCode": "00996-0028",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Europe Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BGDPWW94",
+    "name": "iShares MSCI Europe SRI UCITS ETF EUR (Dist)",
+    "fsmaCode": "00996-0028",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Europe Sri Ucits Etf"
+  },
+  {
+    "isin": "IE000CR424L6",
+    "name": "iShares MSCI Europe SRI UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00996-0028",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Europe Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BMDBMG37",
+    "name": "iShares MSCI Europe SRI UCITS ETF USD (Acc)",
+    "fsmaCode": "00996-0028",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Europe Sri Ucits Etf"
+  },
+  {
+    "isin": "IE000QWO5FT3",
+    "name": "iShares MSCI Japan SRI UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "01287-0025",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Japan Sri Ucits Etf"
+  },
+  {
+    "isin": "IE0007VCNJW3",
+    "name": "iShares MSCI Japan SRI UCITS ETF GBP Hedged (Acc)",
+    "fsmaCode": "01287-0025",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Japan Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00B53QFR17",
+    "name": "iShares MSCI Japan SRI UCITS ETF USD (Acc)",
+    "fsmaCode": "01287-0025",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Japan Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BGDQ0V72",
+    "name": "iShares MSCI Japan SRI UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0025",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Japan Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BYYR0489",
+    "name": "iShares MSCI Saudi Arabia Capped UCITS ETF",
+    "fsmaCode": "00992-0020",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Saudi Arabia Capped Ucits Etf"
+  },
+  {
+    "isin": "IE00BJ5JPJ87",
+    "name": "iShares MSCI Saudi Arabia Capped UCITS ETF USD (Dist)",
+    "fsmaCode": "00992-0020",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Saudi Arabia Capped Ucits Etf"
+  },
+  {
+    "isin": "IE000G2LIHG9",
+    "name": "iShares MSCI USA Screened UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "01287-0020",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Usa Screened Ucits Etf"
+  },
+  {
+    "isin": "IE00BYVJRR92",
+    "name": "iShares MSCI USA SRI UCITS ETF",
+    "fsmaCode": "01287-0026",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Usa Sri Ucits Etf"
+  },
+  {
+    "isin": "IE000ATRYEA4",
+    "name": "iShares MSCI USA SRI UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "01287-0026",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Usa Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BZ173V67",
+    "name": "iShares MSCI USA SRI UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "01287-0026",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Usa Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BMWPV470",
+    "name": "iShares MSCI USA SRI UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "01287-0026",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci Usa Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BZ173T46",
+    "name": "iShares MSCI USA SRI UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0026",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci Usa Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BJ5JP105",
+    "name": "iShares MSCI World Energy Sector UCITS ETF USD Inc",
+    "fsmaCode": "00994-0012",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Energy Sector Ucits Etf"
+  },
+  {
+    "isin": "IE00BMXC7W70",
+    "name": "iShares MSCI World Paris-Aligned Climate UCITS ETF USD Acc",
+    "fsmaCode": "00992-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE00BN92ZL31",
+    "name": "iShares MSCI World Paris-Aligned Climate UCITS ETF USD Inc",
+    "fsmaCode": "00992-0024",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Paris-Aligned Climate Ucits Etf"
+  },
+  {
+    "isin": "IE00BMZ17V16",
+    "name": "iShares MSCI World SRI UCITS ETF CHF Hedged (Dist)",
+    "fsmaCode": "01287-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BYX2JD69",
+    "name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "fsmaCode": "01287-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BMZ17W23",
+    "name": "iShares MSCI World SRI UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "01287-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BMZ17T93",
+    "name": "iShares MSCI World SRI UCITS ETF GBP Hedged (Dist) GBP",
+    "fsmaCode": "01287-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BDZZTM54",
+    "name": "iShares MSCI World SRI UCITS ETF USD (Dist) EUR",
+    "fsmaCode": "01287-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00BMZ17X30",
+    "name": "iShares MSCI World SRI UCITS ETF USD Hedged (Dist)",
+    "fsmaCode": "01287-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Sri Ucits Etf"
+  },
+  {
+    "isin": "IE00B0M62Q58",
+    "name": "iShares MSCI World UCITS ETF USD (Dist) EUR",
+    "fsmaCode": "00991-0012",
+    "matchType": "prefix",
+    "fsmaName": "iShares Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE00BYXG2H39",
+    "name": "iShares Nasdaq US Biotechnology UCITS ETF USD (Acc)",
+    "fsmaCode": "01287-0009",
+    "matchType": "exact",
+    "fsmaName": "iShares Nasdaq Us Biotechnology Ucits Etf"
+  },
+  {
+    "isin": "IE00BDZVHG35",
+    "name": "iShares Nasdaq US Biotechnology UCITS ETF USD (Dist)",
+    "fsmaCode": "01287-0009",
+    "matchType": "exact",
+    "fsmaName": "iShares Nasdaq Us Biotechnology Ucits Etf"
+  },
+  {
+    "isin": "IE00BKTLJC87",
+    "name": "iShares Smart City Infrastructure UCITS ETF USD Acc",
+    "fsmaCode": "01287-0034",
+    "matchType": "prefix",
+    "fsmaName": "iShares Smart City Infrastructure Ucits Etf"
+  },
+  {
+    "isin": "IE00BKTLJB70",
+    "name": "iShares Smart City Infrastructure UCITS ETF USD Inc",
+    "fsmaCode": "01287-0034",
+    "matchType": "prefix",
+    "fsmaName": "iShares Smart City Infrastructure Ucits Etf"
+  },
+  {
+    "isin": "IE00B428Z604",
+    "name": "iShares Spain Govt Bond UCITS ETF EUR (Dist)",
+    "fsmaCode": "00994-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Spain Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000Q4EBLW2",
+    "name": "iShares Spain Govt Bond UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "00994-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Spain Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMM8Y81",
+    "name": "iShares Spain Govt Bond UCITS ETF USD Hedged (Acc)",
+    "fsmaCode": "00994-0008",
+    "matchType": "prefix",
+    "fsmaName": "iShares Spain Govt Bond Ucits Etf"
+  },
+  {
+    "isin": "DE000A0Q4R28",
+    "name": "iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE)",
+    "fsmaCode": "01270-0001",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Automobiles & Parts Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A2QP4A8",
+    "name": "iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE) EUR acc",
+    "fsmaCode": "01270-0001",
+    "matchType": "prefix",
+    "fsmaName": "iShares Stoxx Europe 600 Automobiles & Parts Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0F5UJ7",
+    "name": "iShares STOXX Europe 600 Banks UCITS ETF (DE)",
+    "fsmaCode": "01270-0002",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Banks Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0F5UK5",
+    "name": "iShares STOXX Europe 600 Basic Resources UCITS ETF (DE)",
+    "fsmaCode": "01270-0003",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Basic Resources Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08E0",
+    "name": "iShares STOXX Europe 600 Chemicals UCITS ETF (DE)",
+    "fsmaCode": "01270-0004",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Chemicals Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08F7",
+    "name": "iShares STOXX Europe 600 Construction & Materials UCITS ETF (DE)",
+    "fsmaCode": "01270-0005",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Construction & Materials Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08G5",
+    "name": "iShares STOXX Europe 600 Financial Services UCITS ETF (DE)",
+    "fsmaCode": "01270-0006",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Financial Services Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08H3",
+    "name": "iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE)",
+    "fsmaCode": "01270-0007",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Food & Beverage Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0Q4R36",
+    "name": "iShares STOXX Europe 600 Health Care UCITS ETF (DE)",
+    "fsmaCode": "01270-0008",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Health Care Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08J9",
+    "name": "iShares STOXX Europe 600 Industrial Goods & Services UCITS ETF (DE)",
+    "fsmaCode": "01270-0009",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Industrial Goods & Services Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08K7",
+    "name": "iShares STOXX Europe 600 Insurance UCITS ETF (DE)",
+    "fsmaCode": "01270-0010",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Insurance Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08L5",
+    "name": "iShares STOXX Europe 600 Media UCITS ETF (DE)",
+    "fsmaCode": "01270-0011",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Media Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08M3",
+    "name": "iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE)",
+    "fsmaCode": "01270-0012",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Oil & Gas Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08N1",
+    "name": "iShares STOXX Europe 600 Personal & Household Goods UCITS ETF (DE)",
+    "fsmaCode": "01270-0013",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Personal & Household Goods Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0Q4R44",
+    "name": "iShares STOXX Europe 600 Real Estate UCITS ETF (DE)",
+    "fsmaCode": "01270-0014",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Real Estate Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A2QP398",
+    "name": "iShares STOXX Europe 600 Technology UCITS ETF (DE) EUR acc",
+    "fsmaCode": "01270-0016",
+    "matchType": "prefix",
+    "fsmaName": "iShares Stoxx Europe 600 Technology Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08Q4",
+    "name": "iShares STOXX Europe 600 Technology UCITS ETF (DE) EUR dis",
+    "fsmaCode": "01270-0016",
+    "matchType": "prefix",
+    "fsmaName": "iShares Stoxx Europe 600 Technology Ucits Etf (DE)"
+  },
+  {
+    "isin": "DE000A0H08R2",
+    "name": "iShares STOXX Europe 600 Telecommunications UCITS ETF (DE)",
+    "fsmaCode": "01270-0017",
+    "matchType": "exact",
+    "fsmaName": "iShares Stoxx Europe 600 Telecommunications Ucits Etf (DE)"
+  },
+  {
+    "isin": "IE00BDFGJ841",
+    "name": "iShares US Aggregate Bond UCITS ETF",
+    "fsmaCode": "00996-0019",
+    "matchType": "exact",
+    "fsmaName": "iShares Us Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDFJYM28",
+    "name": "iShares US Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "00996-0019",
+    "matchType": "prefix",
+    "fsmaName": "iShares Us Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00093SKUY4",
+    "name": "iShares US Aggregate Bond UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "00996-0019",
+    "matchType": "prefix",
+    "fsmaName": "iShares Us Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BKP5L409",
+    "name": "iShares US Mortgage Backed Securities UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "01287-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares Us Mortgage Backed Securities Ucits Etf"
+  },
+  {
+    "isin": "IE000EEJLWG1",
+    "name": "iShares US Mortgage Backed Securities UCITS ETF EUR Hedged (Dist)",
+    "fsmaCode": "01287-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares Us Mortgage Backed Securities Ucits Etf"
+  },
+  {
+    "isin": "IE000MFEI2J0",
+    "name": "iShares US Mortgage Backed Securities UCITS ETF GBP Hedged (Dist)",
+    "fsmaCode": "01287-0006",
+    "matchType": "prefix",
+    "fsmaName": "iShares Us Mortgage Backed Securities Ucits Etf"
+  },
+  {
+    "isin": "IE00B5M4WH52",
+    "name": "iShares US Property Yield UCITS ETF USD (Dist)",
+    "fsmaCode": "00996-0009",
+    "matchType": "exact",
+    "fsmaName": "iShares Us Property Yield Ucits Etf"
+  },
+  {
+    "isin": "IE000IDJKTB3",
+    "name": "PIMCO Advantage Euro Government Bond UCITS ETF EUR (Dist)",
+    "fsmaCode": "04561-0010",
+    "matchType": "exact",
+    "fsmaName": "Pimco Advantage Euro Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000UDUSCI9",
+    "name": "PIMCO Advantage Global Government Bond UCITS ETF EUR Hedged (Acc)",
+    "fsmaCode": "04561-0009",
+    "matchType": "prefix",
+    "fsmaName": "Pimco Advantage Global Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BK9YKZ79",
+    "name": "PIMCO US Dollar Short Maturity UCITS ETF Institutional GBP (Hedged) Accumulation",
+    "fsmaCode": "04561-0006",
+    "matchType": "prefix",
+    "fsmaName": "Pimco US Dollar Short Maturity Ucits Etf"
+  },
+  {
+    "isin": "LU1324516308",
+    "name": "UBS BBG USD EM Sovereign UCITS ETF hEUR acc",
+    "fsmaCode": "02695-0015",
+    "matchType": "prefix",
+    "fsmaName": "UBS BBG Usd EM Sovereign Ucits Etf"
+  },
+  {
+    "isin": "LU1459801780",
+    "name": "UBS Core BBG TIPS 1-10 UCITS ETF hEUR acc",
+    "fsmaCode": "02695-0016",
+    "matchType": "prefix",
+    "fsmaName": "UBS Core BBG Tips 1-10 Ucits Etf"
+  },
+  {
+    "isin": "LU1459801517",
+    "name": "UBS Core BBG TIPS 1-10 UCITS ETF USD acc",
+    "fsmaCode": "02695-0016",
+    "matchType": "prefix",
+    "fsmaName": "UBS Core BBG Tips 1-10 Ucits Etf"
+  },
+  {
+    "isin": "IE000TB15RC6",
+    "name": "UBS Core MSCI World UCITS ETF hEUR acc",
+    "fsmaCode": "02699-0004",
+    "matchType": "prefix",
+    "fsmaName": "UBS Core Msci World Ucits Etf"
+  },
+  {
+    "isin": "LU0950674761",
+    "name": "UBS MSCI EMU Socially Responsible UCITS ETF EUR acc",
+    "fsmaCode": "02695-0006",
+    "matchType": "prefix",
+    "fsmaName": "UBS Msci Emu Socially Responsible Ucits Etf"
+  },
+  {
+    "isin": "LU1852211645",
+    "name": "UBS Sustainable Development Bank Bonds UCITS ETF hEUR dis",
+    "fsmaCode": "02695-0019",
+    "matchType": "prefix",
+    "fsmaName": "UBS Sustainable Development Bank Bonds Ucits Etf"
+  },
+  {
+    "isin": "NL0009272749",
+    "name": "VanEck AEX UCITS ETF",
+    "fsmaCode": "02130-0001",
+    "matchType": "exact",
+    "fsmaName": "VanEck Aex Ucits Etf"
+  },
+  {
+    "isin": "NL0009690247",
+    "name": "VanEck iBoxx EUR Corporates UCITS ETF",
+    "fsmaCode": "02130-0007",
+    "matchType": "exact",
+    "fsmaName": "VanEck iBoxx Eur Corporates Ucits Etf"
+  },
+  {
+    "isin": "NL0010273801",
+    "name": "VanEck iBoxx EUR Sovereign Capped AAA-AA 1-5 UCITS ETF",
+    "fsmaCode": "02130-0006",
+    "matchType": "exact",
+    "fsmaName": "VanEck iBoxx Eur Sovereign Capped AAA-AA 1-5 Ucits Etf"
+  },
+  {
+    "isin": "NL0009690254",
+    "name": "VanEck iBoxx EUR Sovereign Diversified 1-10 UCITS ETF",
+    "fsmaCode": "02130-0008",
+    "matchType": "exact",
+    "fsmaName": "VanEck iBoxx Eur Sovereign Diversified 1-10 Ucits Etf"
+  },
+  {
+    "isin": "NL0011683594",
+    "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
+    "fsmaCode": "02130-0014",
+    "matchType": "exact",
+    "fsmaName": "VanEck Morningstar Developed Markets Dividend Leaders Ucits Etf"
+  },
+  {
+    "isin": "NL0009272772",
+    "name": "VanEck Multi-Asset Balanced Allocation UCITS ETF",
+    "fsmaCode": "02130-0012",
+    "matchType": "exact",
+    "fsmaName": "VanEck Multi-Asset Balanced Allocation Ucits Etf"
+  },
+  {
+    "isin": "NL0009272764",
+    "name": "VanEck Multi-Asset Conservative Allocation UCITS ETF",
+    "fsmaCode": "02130-0011",
+    "matchType": "exact",
+    "fsmaName": "VanEck Multi-Asset Conservative Allocation Ucits Etf"
+  },
+  {
+    "isin": "NL0009272780",
+    "name": "VanEck Multi-Asset Growth Allocation UCITS ETF",
+    "fsmaCode": "02130-0013",
+    "matchType": "exact",
+    "fsmaName": "VanEck Multi-Asset Growth Allocation Ucits Etf"
+  },
+  {
+    "isin": "IE000GOJO2A3",
+    "name": "Vanguard ESG Developed Asia Pacific All Cap UCITS ETF USD Accumulating EUR",
+    "fsmaCode": "01829-0042",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Developed Asia Pacific All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE0008T6IUX0",
+    "name": "Vanguard ESG Developed Asia Pacific All Cap UCITS ETF USD Income EUR",
+    "fsmaCode": "01829-0042",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Developed Asia Pacific All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000QUOSE01",
+    "name": "Vanguard ESG Developed Europe All Cap UCITS ETF EUR Accumulation",
+    "fsmaCode": "01829-0036",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Developed Europe All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000NRGX9M3",
+    "name": "Vanguard ESG Developed Europe All Cap UCITS ETF EUR Income GBP",
+    "fsmaCode": "01829-0036",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Developed Europe All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000KPJJWM6",
+    "name": "Vanguard ESG Emerging Markets All Cap UCITS ETF USD Acc EUR",
+    "fsmaCode": "01829-0037",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Emerging Markets All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE0001VXZTV7",
+    "name": "Vanguard ESG Emerging Markets All Cap UCITS ETF USD Inc EUR",
+    "fsmaCode": "01829-0037",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Emerging Markets All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE00BNG8L278",
+    "name": "Vanguard ESG Global All Cap UCITS ETF (USD) Accumulating",
+    "fsmaCode": "01829-0035",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Global All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE00BNG8L385",
+    "name": "Vanguard ESG Global All Cap UCITS ETF (USD) Distributing",
+    "fsmaCode": "01829-0035",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg Global All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000O58J820",
+    "name": "Vanguard ESG North America All Cap UCITS ETF USD Accumulation EUR",
+    "fsmaCode": "01829-0038",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg North America All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000L2ZNB07",
+    "name": "Vanguard ESG North America All Cap UCITS ETF USD Income EUR",
+    "fsmaCode": "01829-0038",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Esg North America All Cap Ucits Etf"
+  },
+  {
+    "isin": "IE000SOORXS0",
+    "name": "Vanguard EUR Cash UCITS ETF (Acc)",
+    "fsmaCode": "01829-0048",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Eur Cash Ucits Etf"
+  },
+  {
+    "isin": "IE000AFVKJZ0",
+    "name": "Vanguard EUR Cash UCITS ETF (Dist)",
+    "fsmaCode": "01829-0048",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Eur Cash Ucits Etf"
+  },
+  {
+    "isin": "IE00BDD48S37",
+    "name": "Vanguard EUR Corporate 1-3 Year Bond UCITS ETF EUR Distributing",
+    "fsmaCode": "01829-0026",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Eur Corporate 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWT403",
+    "name": "Vanguard EUR Corporate Bond UCITS ETF EUR Accumulation",
+    "fsmaCode": "01829-0018",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Eur Corporate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000HARFTG3",
+    "name": "Vanguard EUR Eurozone Government 1-3 Year Bond UCITS ETF (EUR) Distributing",
+    "fsmaCode": "01829-0043",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Eur Eurozone Government 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00004S2680",
+    "name": "Vanguard EUR Eurozone Government 1-3 Year Bond UCITS ETF EUR Accumulating",
+    "fsmaCode": "01829-0043",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Eur Eurozone Government 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BH04GL39",
+    "name": "Vanguard EUR Eurozone Government Bond UCITS ETF EUR Accumulation",
+    "fsmaCode": "01829-0019",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Eur Eurozone Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMXVQ44",
+    "name": "Vanguard FTSE 250 UCITS ETF GBP Accumulation",
+    "fsmaCode": "01829-0002",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse 250 Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BR626",
+    "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0003",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse All-World High Dividend Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00B8GKDB10",
+    "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF USD Distributing",
+    "fsmaCode": "01829-0003",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse All-World High Dividend Yield Ucits Etf"
+  },
+  {
+    "isin": "IE00B3RBWM25",
+    "name": "Vanguard FTSE All-World UCITS ETF",
+    "fsmaCode": "01829-0004",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Ftse All-World Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQT80",
+    "name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0004",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse All-World Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQZ41",
+    "name": "Vanguard FTSE Developed Asia Pacific ex Japan UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0005",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Developed Asia Pacific Ex Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQY34",
+    "name": "Vanguard FTSE Developed Europe ex UK UCITS ETF Accuimulation",
+    "fsmaCode": "01829-0006",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Developed Europe Ex Uk Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQX27",
+    "name": "Vanguard FTSE Developed Europe UCITS ETF EUR Accumulation",
+    "fsmaCode": "01829-0007",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Developed Europe Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQV03",
+    "name": "Vanguard FTSE Developed World UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0008",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Developed World Ucits Etf"
+  },
+  {
+    "isin": "IE00BKX55T58",
+    "name": "Vanguard FTSE Developed World UCITS ETF USD Distributing",
+    "fsmaCode": "01829-0008",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Developed World Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BR733",
+    "name": "Vanguard FTSE Emerging Markets UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0009",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Emerging Markets Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMXYY33",
+    "name": "Vanguard FTSE Japan UCITS ETF EUR Hedged Accumulation",
+    "fsmaCode": "01829-0010",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMXYX26",
+    "name": "Vanguard FTSE Japan UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0010",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00BFMXZJ56",
+    "name": "Vanguard FTSE Japan UCITS ETF USD Hedged Accumulation",
+    "fsmaCode": "01829-0010",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse Japan Ucits Etf"
+  },
+  {
+    "isin": "IE00BK5BQW10",
+    "name": "Vanguard FTSE North America UCITS ETF USD Accuimulation",
+    "fsmaCode": "01829-0011",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Ftse North America Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47KF31",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF CHF Hedged Accumulation",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47KH54",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Accumulation",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47KB92",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF EUR Hedged Income",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47K971",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF GBP Hedged Accumulation",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47KG48",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF GBP Hedged Income",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BG47KJ78",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF USD Hedged Accumulation",
+    "fsmaCode": "01829-0028",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Aggregate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000B1A2798",
+    "name": "Vanguard Global Government Bond UCITS ETF EUR Hedged Accumulating",
+    "fsmaCode": "01829-0044",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE0003HUCA83",
+    "name": "Vanguard Global Government Bond UCITS ETF EUR Hedged Distributing",
+    "fsmaCode": "01829-0044",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Global Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5K07",
+    "name": "Vanguard LifeStrategy 20% Equity UCITS ETF (EUR) Accumulating",
+    "fsmaCode": "01829-0030",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 20% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5L14",
+    "name": "Vanguard LifeStrategy 20% Equity UCITS ETF (EUR) Distributing",
+    "fsmaCode": "01829-0030",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 20% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5M21",
+    "name": "Vanguard LifeStrategy 40% Equity UCITS ETF (EUR) Accumulating",
+    "fsmaCode": "01829-0031",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 40% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5N38",
+    "name": "Vanguard LifeStrategy 40% Equity UCITS ETF (EUR) Distributing",
+    "fsmaCode": "01829-0031",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 40% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5P51",
+    "name": "Vanguard LifeStrategy 60% Equity UCITS ETF (EUR) Accumulating",
+    "fsmaCode": "01829-0032",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 60% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5Q68",
+    "name": "Vanguard LifeStrategy 60% Equity UCITS ETF (EUR) Distributing",
+    "fsmaCode": "01829-0032",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 60% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5R75",
+    "name": "Vanguard LifeStrategy 80% Equity UCITS ETF (EUR) Accumulating",
+    "fsmaCode": "01829-0033",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 80% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00BMVB5S82",
+    "name": "Vanguard LifeStrategy 80% Equity UCITS ETF (EUR) Distributing",
+    "fsmaCode": "01829-0033",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Lifestrategy 80% Equity Ucits Etf"
+  },
+  {
+    "isin": "IE00B3XXRP09",
+    "name": "Vanguard S&P 500 UCITS ETF EUR",
+    "fsmaCode": "01829-0012",
+    "matchType": "exact",
+    "fsmaName": "Vanguard S&P 500 Ucits Etf"
+  },
+  {
+    "isin": "IE00B42WWV65",
+    "name": "Vanguard U.K. Gilt UCITS ETF",
+    "fsmaCode": "01829-0013",
+    "matchType": "exact",
+    "fsmaName": "Vanguard U.K. Gilt Ucits Etf"
+  },
+  {
+    "isin": "IE00BMX0B524",
+    "name": "Vanguard U.K. Gilt UCITS ETF EUR Hedged Accumulation",
+    "fsmaCode": "01829-0013",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.K. Gilt Ucits Etf"
+  },
+  {
+    "isin": "IE00BH04GW44",
+    "name": "Vanguard U.K. Gilt UCITS ETF GBP Accumulation",
+    "fsmaCode": "01829-0013",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.K. Gilt Ucits Etf"
+  },
+  {
+    "isin": "IE000M6STPW4",
+    "name": "Vanguard U.S. Treasury 1-3 Year Bond UCITS ETF - EUR Hedged Distributing",
+    "fsmaCode": "01829-0047",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000TAV7246",
+    "name": "Vanguard U.S. Treasury 1-3 Year Bond UCITS ETF EUR Hedged Acc",
+    "fsmaCode": "01829-0047",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000H3Q3AF6",
+    "name": "Vanguard U.S. Treasury 1-3 Year Bond UCITS ETF USD Acc",
+    "fsmaCode": "01829-0047",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000GU6MFI0",
+    "name": "Vanguard U.S. Treasury 1-3 Year Bond UCITS ETF USD Dist",
+    "fsmaCode": "01829-0047",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000VZ8BBU9",
+    "name": "Vanguard U.S. Treasury 3-7 Year Bond UCITS ETF USD Acc",
+    "fsmaCode": "01829-0045",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 3-7 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000128BSS1",
+    "name": "Vanguard U.S. Treasury 3-7 Year Bond UCITS ETF USD Dist",
+    "fsmaCode": "01829-0045",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 3-7 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000UXDT343",
+    "name": "Vanguard U.S. Treasury 7-10 Year Bond UCITS ETF USD Acc",
+    "fsmaCode": "01829-0046",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 7-10 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000U882CN5",
+    "name": "Vanguard U.S. Treasury 7-10 Year Bond UCITS ETF USD Dist",
+    "fsmaCode": "01829-0046",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard U.S. Treasury 7-10 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BDD48R20",
+    "name": "Vanguard USD Corporate 1-3 year Bond UCITS ETF",
+    "fsmaCode": "01829-0025",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Usd Corporate 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWSW13",
+    "name": "Vanguard USD Corporate 1-3 Year Bond UCITS ETF (EUR) Hedged Accumulating",
+    "fsmaCode": "01829-0025",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWSZ44",
+    "name": "Vanguard USD Corporate 1-3 Year Bond UCITS ETF GBP Hedged Distributing",
+    "fsmaCode": "01829-0025",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWSV06",
+    "name": "Vanguard USD Corporate 1-3 Year Bond UCITS ETF USD Accuimulation EUR",
+    "fsmaCode": "01829-0025",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate 1-3 Year Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWFL94",
+    "name": "Vanguard USD Corporate Bond UCITS ETF EUR Hedged Accumulation",
+    "fsmaCode": "01829-0021",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWFN19",
+    "name": "Vanguard USD Corporate Bond UCITS ETF GBP Hedged Accumulation",
+    "fsmaCode": "01829-0021",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWFK87",
+    "name": "Vanguard USD Corporate Bond UCITS ETF USD Accumulation",
+    "fsmaCode": "01829-0021",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Corporate Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWCB81",
+    "name": "Vanguard USD Emerging Markets Government Bond UCITS ETF Accumulating",
+    "fsmaCode": "01829-0022",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Usd Emerging Markets Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BZ163L38",
+    "name": "Vanguard USD Emerging Markets Government Bond UCITS ETF EUR",
+    "fsmaCode": "01829-0022",
+    "matchType": "exact",
+    "fsmaName": "Vanguard Usd Emerging Markets Government Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BMX0B631",
+    "name": "Vanguard USD Treasury Bond UCITS ETF EUR Hedged Accumulation",
+    "fsmaCode": "01829-0023",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Treasury Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000S0PSP47",
+    "name": "Vanguard USD Treasury Bond UCITS ETF GBP Hedged Distribution",
+    "fsmaCode": "01829-0023",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Treasury Bond Ucits Etf"
+  },
+  {
+    "isin": "IE00BGYWFS63",
+    "name": "Vanguard USD Treasury Bond UCITS ETF USD Accumulation EUR",
+    "fsmaCode": "01829-0023",
+    "matchType": "prefix",
+    "fsmaName": "Vanguard Usd Treasury Bond Ucits Etf"
+  },
+  {
+    "isin": "IE000UX5WPU4",
+    "name": "Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1C",
+    "fsmaCode": "01096-0004",
+    "matchType": "exact",
+    "fsmaName": "Xtrackers iBoxx Eur Corporate Bond Yield Plus Ucits Etf"
+  },
+  {
+    "isin": "IE000BO2Y0T8",
+    "name": "Xtrackers MSCI Nordic UCITS ETF 1C",
+    "fsmaCode": "01096-0003",
+    "matchType": "exact",
+    "fsmaName": "Xtrackers Msci Nordic Ucits Etf"
+  },
+  {
+    "isin": "IE00BZ1BS790",
+    "name": "Xtrackers MSCI World UCITS ETF",
+    "fsmaCode": "01096-0005",
+    "matchType": "exact",
+    "fsmaName": "Xtrackers Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE000ONQ3X90",
+    "name": "Xtrackers MSCI World UCITS ETF 2C - EUR Hedged",
+    "fsmaCode": "01096-0005",
+    "matchType": "prefix",
+    "fsmaName": "Xtrackers Msci World Ucits Etf"
+  },
+  {
+    "isin": "IE0009KLWT21",
+    "name": "Xtrackers MSCI World UCITS ETF 3C - CHF Hedged",
+    "fsmaCode": "01096-0005",
+    "matchType": "prefix",
+    "fsmaName": "Xtrackers Msci World Ucits Etf"
+  }
+]
